@@ -103,3 +103,6 @@ C:\Users\HP\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1
 C:\Users\HP\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cs
 C:\Users\HP\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.Views.pdb
 C:\Users\HP\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HP\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\HP\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ShowMessage.cshtml.g.cs
+C:\Users\HP\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Result.cshtml.g.cs
