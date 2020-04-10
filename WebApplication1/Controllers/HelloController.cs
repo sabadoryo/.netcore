@@ -10,7 +10,10 @@ namespace WebApplication1.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            
+            string[] students = { "Yernar Abilbay", "Orazalinov Askhat", "Fazylzhan Zheten" };
+            ViewData["Students"] = students;
+            return View("Index");
         }
     }
 }

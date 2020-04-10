@@ -1,0 +1,18 @@
+﻿@foreach (KeyValuePair<string, int> keyValue in ViewBag.Students)
+{
+    <h1>@keyValue.Key - @keyValue.Value </h1>
+}
+
+<form asp-controller="GradeBook" asp-action="setMark" method="post">
+    <p>
+        <label>Name:</label><br />
+        <input type="text" name="s_name" />
+    </p>
+
+    <p>
+        <label>Put mark:</label><br />
+        <input type="number" name="new_mark" />
+    </p>
+    <button type="submit">Save</button>
+
+</form>
