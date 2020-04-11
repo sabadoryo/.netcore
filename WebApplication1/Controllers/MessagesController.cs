@@ -4,8 +4,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace WebApplication1.Controllers
+namespace iitu.web.example.Controllers
 {
+    [Route("Say")]
     public class MessagesController : Controller
     {
         [Route("{**message}")]
